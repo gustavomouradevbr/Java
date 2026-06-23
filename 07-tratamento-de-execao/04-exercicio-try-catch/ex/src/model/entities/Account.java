@@ -1,4 +1,4 @@
-package model.entites;
+package model.entities;
 
 import model.exception.BusinessException;
 

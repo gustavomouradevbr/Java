@@ -4,7 +4,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Scanner;
 
-import entites.Reservation;
+import entities.Reservation;
 
 import java.util.Date;
 

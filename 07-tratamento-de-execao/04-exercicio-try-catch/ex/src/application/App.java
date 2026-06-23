@@ -3,7 +3,7 @@ package application;
 import java.util.Locale;
 import java.util.Scanner;
 
-import model.entites.Account;
+import model.entities.Account;
 import model.exception.BusinessException;
 
 public class App {
